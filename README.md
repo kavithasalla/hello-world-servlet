@@ -25,3 +25,7 @@ sample
 15-02-2023 --> Today is Tuesday
 16-02-2023 --> today is thursday
 16-02-2023 --> today is thursday added in local
+21-02-2023 --> today is wednesday
+23-02-2023 -->Today is Thursday
+24-02-2023 --> Today is Friday
+25-02-2023 --> tomorrow is saturday
